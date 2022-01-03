@@ -41,8 +41,8 @@
 # fi
 
 # Comparisons
-NUM1=3
-NUM2=5
+# NUM1=3
+# NUM2=5
 
 # if [ ${NUM1} -gt ${NUM2} ]
 # then
@@ -145,8 +145,8 @@ NUM2=5
 # greet "Mikyle" "30"
 
 # Create Folder and Write to Folder
-mkdir Hello
-cd Hello
-touch "hello world.txt"
-echo 'Hello World!' >> "hello world.txt"
-echo "Created hello world.txt"
+# mkdir Hello
+# cd Hello
+# touch "hello world.txt"
+# echo 'Hello World!' >> "hello world.txt"
+# echo "Created hello world.txt"
